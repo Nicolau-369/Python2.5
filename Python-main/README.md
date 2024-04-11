@@ -17,4 +17,5 @@ Do rascunho até passar limpo.
 
 Futuramente muita publicações serão feitas por aqui e outras redes.
 
-![cc432a6cdd74b93a69d09d75b952a5bd](https://github.com/Nicolau-369/Python/assets/160781135/0eb40a19-7953-41e7-a7db-aa219cf8f90e)
+![cc432a6cdd74b93a69d09d75b952a5bd](https://github.com/Nicolau-369/Python2.5/assets/160781135/8eb6b416-9828-41dc-90f4-d350f2cdc948)
+
